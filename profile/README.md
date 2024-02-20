@@ -1,4 +1,14 @@
-## Hi there 👋
+## Meoku 👋
+
+### 팀원소개
+Developer
+- 박여명(팀장)
+- 박소현
+- 이준석
+
+Designer
+- 윤혜미
+- 박지영
 
 <!--
 
