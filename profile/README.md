@@ -5,6 +5,7 @@ Developer
 - 박여명(팀장)
 - 박소현
 - 이준석
+- 김정서
 
 Designer
 - 윤혜미
