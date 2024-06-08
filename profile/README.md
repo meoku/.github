@@ -14,6 +14,13 @@ Designer
 ### Infomation Of Project
 
 - Project Url : https://www.meoku.info/
+- Meoku Main Page View
+  
+  ![image](https://github.com/meoku/.github/assets/68410186/b0fef0b3-4667-4093-aab4-9180d72b9ba8)
+- 제공 정보
+  - 주간 배식 메뉴
+  - 주간 배식 순서
+  - 현재 날씨
 <!--
 
 **Here are some ideas to get you started:**
