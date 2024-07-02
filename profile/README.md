@@ -16,11 +16,19 @@ Designer
 - Project Url : https://www.meoku.info/
 - Meoku Main Page View
   
-  ![image](https://github.com/parkyeomyeong/MyDevOpsToolkit/assets/68410186/f6f9e794-617c-47f7-9666-4bc3e17c9cb7)
+| PC 버전                                                                                                         | 모바일 버전                                                                                                    |
+|:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
+| ![image](https://github.com/parkyeomyeong/MyDevOpsToolkit/assets/68410186/f6f9e794-617c-47f7-9666-4bc3e17c9cb7) | ![image](https://github.com/parkyeomyeong/MyDevOpsToolkit/assets/68410186/53344822-ae1f-4219-8e10-8f3e05a99e75) |
+
 - 제공 정보
   - 주간 배식 메뉴
   - 주간 배식 순서
   - 현재 날씨
+      - 현재 온도
+      - 오늘 최고온도
+      - 오늘 최저온도
+      - 하늘, 강수 상태(이모티콘으로 표시)
+      - 자외선지수
 <!--
 
 **Here are some ideas to get you started:**
