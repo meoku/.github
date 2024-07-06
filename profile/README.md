@@ -2,14 +2,16 @@
 
 ### 팀원소개
 Developer
-- 박여명(팀장)
-- 박소현
-- 이준석
-- 김정서
+- 박여명(팀장) - B/E
+- 김정서 - F/E
 
 Designer
 - 윤혜미
 - 박지영
+
+Sponsor
+- 박소현
+- 이준석
 
 ### Infomation Of Project
 
