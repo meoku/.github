@@ -1,20 +1,19 @@
 ## Meoku 👋
 
 ### 팀원소개
-Developer
-- 박여명(팀장) - B/E
-- 김정서 - F/E
+| 이름   | 역할 | 포지션 | GitHub  |
+|--------|------|--------|---------|
+| 박여명 | 팀장, B/E | 백엔드 | [https://github.com/parkyeomyeong](https://github.com/parkyeomyeong/) |
+| 김정서 | F/E  | 프론트 | [https://github.com/wjdtj9656](https://github.com/wjdtj9656)           |
+| 윤혜미 | 디자이너 | -  | -       |
+| 박지영 | 디자이너 | -  | -       |
+| 박소현 | 후원 | -  | -       |
+| 이준석 | 후원 | -  | -       |
 
-Designer
-- 윤혜미
-- 박지영
-
-Sponsor
-- 박소현
-- 이준석
 
 ### Infomation Of Project
 
+- 프로젝트 기간 : 2024.01.05 ~
 - Project Url : https://www.meoku.info/
 - Meoku Main Page View
   
