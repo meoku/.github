@@ -31,6 +31,7 @@
       - 오늘 최저온도
       - 하늘, 강수 상태(이모티콘으로 표시)
       - 자외선지수
+      - 체감온도
 <!--
 
 **Here are some ideas to get you started:**
