@@ -10,10 +10,10 @@
 | 박소현 | 후원 | -  | -       |
 | 이준석 | 후원 | -  | -       |
 
-
 ### Infomation Of Project
 
 - 프로젝트 기간 : 2024.01.05 ~
+- 프로젝트 기획배경 및 일기 : https://velog.io/@ydding/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A8%B9%EA%B5%AC%EC%82%AC%EB%82%B4-%EA%B8%89%EC%8B%9D-%EC%84%9C%EB%B9%84%EC%8A%A4
 - Project Url : https://www.meoku.info/
 - Meoku Main Page View
   
