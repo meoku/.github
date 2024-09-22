@@ -7,12 +7,15 @@
 | 김정서 | F/E  | 프론트 | [https://github.com/wjdtj9656](https://github.com/wjdtj9656)           |
 | 윤혜미 | 디자이너 | -  | -       |
 | 박지영 | 디자이너 | -  | -       |
-| 박소현 | 후원 | -  | -       |
+| 박연서 | 기획 | -  | -       |
 | 이준석 | 후원 | -  | -       |
 
 ### Infomation Of Project
 
-- 프로젝트 기간 : 2024.01.05 ~
+- 프로젝트 기간
+  - 식단공지 [STEP 1] : 2024.01.05 ~ 2024.08
+  - 맛집지도 [STEP 2] : 2024.09 ~ 미정
+  - AI추천 [STEP 3] : 미정
 - 프로젝트 기획배경 및 일기 : [기록링크](https://velog.io/@ydding/%EC%82%AC%EC%9D%B4%EB%93%9C%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A8%B9%EA%B5%AC%EC%82%AC%EB%82%B4-%EA%B8%89%EC%8B%9D-%EC%84%9C%EB%B9%84%EC%8A%A4)
 - Project Url : https://www.meoku.info/
 - Meoku Main Page View
@@ -21,7 +24,7 @@
 |:---------------------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------------------:|
 | ![image](https://github.com/parkyeomyeong/MyDevOpsToolkit/assets/68410186/f6f9e794-617c-47f7-9666-4bc3e17c9cb7) | ![image](https://github.com/parkyeomyeong/MyDevOpsToolkit/assets/68410186/53344822-ae1f-4219-8e10-8f3e05a99e75) |
 
-- 제공 정보
+- 현재 제공 정보
   - 주간 배식 메뉴
   - 주간 배식 순서
   - 음식 태그정보 제공
