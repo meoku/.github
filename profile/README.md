@@ -7,8 +7,6 @@
 | 김정서 | F/E  | 프론트 | [https://github.com/wjdtj9656](https://github.com/wjdtj9656)           |
 | 윤혜미 | 디자이너 | -  | -       |
 | 박지영 | 디자이너 | -  | -       |
-| 박연서 | 기획 | -  | -       |
-| 이준석 | 후원 | -  | -       |
 
 ### Infomation Of Project
 
